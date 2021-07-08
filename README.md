@@ -23,3 +23,8 @@
 ## Console
 
 Run `./bin/console` for development or e.g. `EXAMPLE_ENV=test ./bin/console` if you want to set different environment.
+
+## TODO
+
+- db rake tasks,
+- web app.
